@@ -153,6 +153,22 @@ namespace appMatronas_obj.Vistas
 
             MessageBox.Show(con1 + "\n" + con2 + "\n" + con3);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                string codigo = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+                EmbarazadaForm formularioCrear = new EmbarazadaForm(codigo,logica);
+                DialogResult result = formularioCrear.ShowDialog();
+
+                // Si el formulario se cerró después de un 'Guardar exitoso', recarga los datos
+                if (result == DialogResult.OK)
+                {
+                    cargarClases();  // Suponiendo que 'Cargar()' es tu método para cargar datos en la tabla
+                }
+            }
+        }
     }
     
 }

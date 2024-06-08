@@ -37,6 +37,23 @@ namespace appMatronas_obj.Entidades
             this.direccion = direccion;
             this.fechaAlta = fechaAlta;
         }
-      
+
+        public int CalcularSemanaGestacionActual()
+        {
+            // Obtener la fecha actual
+            DateTime fechaActual = DateTime.Now;
+
+            // Calcular el número de días transcurridos desde la fecha de alta hasta hoy
+            int diasTranscurridos = (fechaActual - fechaAlta).Days;
+
+            // Convertir los días transcurridos a semanas
+            int semanasTranscurridas = diasTranscurridos / 7;
+
+            // Calcular la semana de gestación actual
+            int semanaGestacionActual = semanaGestacion + semanasTranscurridas;
+
+            return semanaGestacionActual;
+        }
+
     }
 }

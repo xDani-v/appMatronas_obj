@@ -173,6 +173,53 @@ namespace appMatronas_obj.Controlador
         {
             return embarazadas;
         }
+
+        public void modificarEmbarazada(string nombre, Embarazada obj)
+        {
+            foreach (Embarazada embarazada in embarazadas)
+            {
+                if (embarazada.nombreEmbarazada.Equals(nombre))
+                {
+                    embarazada.edadEmbarazada = obj.edadEmbarazada;
+                    embarazada.numeroHijos = obj.numeroHijos;
+                    embarazada.numeroClases = obj.numeroClases;
+                    embarazada.asignada = obj.asignada;
+                    embarazada.seguridadSocial = obj.seguridadSocial;
+                    embarazada.direccion = obj.direccion;
+                }
+            }
+        }
+
+        //buscar embarazada x nombre bool
+        public bool buscarEmbarazadaBool(string nombre)
+        {
+            bool result = false;
+            foreach (Embarazada embarazada in embarazadas)
+            {
+                if (embarazada.nombreEmbarazada.Equals(nombre))
+                {
+                    result = true;
+                    break;
+                }
+            }
+            return result;
+        }
+
+        //buscar objeto embarazada x nombre
+        public Embarazada buscarEmbarazada(string nombre)
+        {
+            Embarazada embarazadaEncontrada = null;
+            foreach (Embarazada embarazada in embarazadas)
+            {
+                if (embarazada.nombreEmbarazada.Equals(nombre))
+                {
+                    embarazadaEncontrada = embarazada;
+                    break;
+                }
+            }
+            return embarazadaEncontrada;
+        }
+
         //consultas
         //El total de clases impartidas por cada matrona agrupada según su centro de salud. 0.25 Ptos. 
         public string totalClasesPorMatrona()
