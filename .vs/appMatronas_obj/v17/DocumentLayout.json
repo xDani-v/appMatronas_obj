@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|c:\\users\\nitro\\source\\repos\\appmatronas_obj\\vistas\\clasesvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|solutionrelative:vistas\\clasesvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|c:\\users\\nitro\\source\\repos\\appmatronas_obj\\vistas\\matronavista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|solutionrelative:vistas\\matronavista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|c:\\users\\nitro\\source\\repos\\appmatronas_obj\\controlador\\matronacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|solutionrelative:controlador\\matronacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|c:\\users\\nitro\\source\\repos\\appmatronas_obj\\vistas\\clasesvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|solutionrelative:vistas\\clasesvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|c:\\users\\nitro\\source\\repos\\appmatronas_obj\\entidades\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB240792-A716-4177-9244-01147F0979DA}|appMatronas_obj.csproj|solutionrelative:entidades\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Entidades\\Clase.cs",
+              "RelativeDocumentMoniker": "Entidades\\Clase.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Entidades\\Clase.cs",
+              "RelativeToolTip": "Entidades\\Clase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:30:36.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatronaVista.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Vistas\\MatronaVista.cs",
+              "RelativeDocumentMoniker": "Vistas\\MatronaVista.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Vistas\\MatronaVista.cs",
+              "RelativeToolTip": "Vistas\\MatronaVista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:26:40.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClasesVista.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Vistas\\ClasesVista.cs",
+              "RelativeDocumentMoniker": "Vistas\\ClasesVista.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Vistas\\ClasesVista.cs",
+              "RelativeToolTip": "Vistas\\ClasesVista.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAcwJYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:18:35.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClasesVista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Vistas\\ClasesVista.cs",
+              "RelativeDocumentMoniker": "Vistas\\ClasesVista.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Vistas\\ClasesVista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\ClasesVista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:16:05.265Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatronaController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Controlador\\MatronaController.cs",
+              "RelativeDocumentMoniker": "Controlador\\MatronaController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\appMatronas_obj\\Controlador\\MatronaController.cs",
+              "RelativeToolTip": "Controlador\\MatronaController.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAAANoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:11:20.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

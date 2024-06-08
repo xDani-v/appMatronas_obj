@@ -1,0 +1,13 @@
+C:\Users\NITRO\source\repos\appMatronas_obj\bin\Debug\appMatronas_obj.exe.config
+C:\Users\NITRO\source\repos\appMatronas_obj\bin\Debug\appMatronas_obj.exe
+C:\Users\NITRO\source\repos\appMatronas_obj\bin\Debug\appMatronas_obj.pdb
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.Form1.resources
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.Properties.Resources.resources
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.Vistas.CentroVista.resources
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.Vistas.MatronaVista.resources
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.csproj.GenerateResource.cache
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.exe
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.pdb
+C:\Users\NITRO\source\repos\appMatronas_obj\obj\Debug\appMatronas_obj.Vistas.ClasesVista.resources
